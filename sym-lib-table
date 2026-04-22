@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Down-Converter-Parts")(type "KiCad")(uri "${KIPRJMOD}/Down-Converter-Parts.kicad_sym")(options "")(descr ""))
+)
